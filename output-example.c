@@ -24,7 +24,7 @@
  * @file
  * video encoding with libavcodec API example
  *
- * @example encode_video.c
+ * @example output-example.c
  */
 
 #include <stdio.h>
